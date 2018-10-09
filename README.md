@@ -15,6 +15,5 @@ different geometries, to broaden the range of approaches the students are expose
 Working with real data with real tools, using and re-using datasets to gain experience in applying 
 key visualization principles and practices.
 
-Using visualization for real-world problems. In real-world applications, visualization is used to support communication, 
-decision-making and problem-solving. 
+Using visualization for real-world problems: to support communication, decision-making and problem-solving. 
 
