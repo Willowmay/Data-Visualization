@@ -1,5 +1,6 @@
 "Truth and Lies" in Visualization Infographic 
 
+
 The dataset (Hoover Dam Data.xlsx) shows two measures of water level in Lake Mead, 
 beginning in 1935, when the Hoover Dam was first created and Lake Mead began to fill up till recently, 
 and the timestamp of when the data were collected.   
@@ -8,3 +9,7 @@ It also shows various baseline levels, such as the drought level and the overflo
 
 I formatted the dataset into csv. document and used Tableau to build "truth and lies" for this visualization infographic, 
 and finally I organized in PowerPoint.
+
+The final report can be found in this file and the visualization infographic's file name is "truth&lie_pdf format".
+
+Feel free to comment!
